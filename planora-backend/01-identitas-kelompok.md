@@ -29,10 +29,10 @@
 - Teknologi: `Laravel, MySQL, REST API`
 
 **Anggota 3**
-- Nama Lengkap: `Amnul`
+- Nama Lengkap: `Amnul Khadijah`
 - NIM: `230705118`
 - Role: `DevOps Engineer`
-- Teknologi: `Docker, GitHub, Railway`
+- Teknologi: `Docker, GitHub, Railway, vercel`
 
 ---
 
