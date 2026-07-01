@@ -9,6 +9,7 @@
 **Jumlah Anggota:** `3 (tiga) orang`
 
 **Repositori:** `https://github.com/amnlkh/Planora.git`
+**Link web:** `https://planora-monorepo.vercel.app/`
 
 ---
 
